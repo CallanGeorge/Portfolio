@@ -1,0 +1,103 @@
+body{
+    background-image: url(images/sec1-bg.JPG);
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-position:center top;
+    background-color: #121212;
+}
+
+
+
+.hero-img{
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+    height: 300px;
+    border: 2px solid black;
+  box-shadow: 5px 5px 5px 1px rgba(0,0,0,.8);
+
+}
+
+.hero-title{
+    color: white;
+    margin-top: 20px;
+    margin-left: 1000px;
+    margin-right: 1000px;
+    text-align: center;
+    background-color: #212529;
+    height: 50px;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 0px;
+    font-weight: bold;
+
+
+
+}
+
+.hero-title-purp{
+    color:#BB86FC;
+
+}
+
+
+.about-me{
+    color: white;
+    text-align: left;
+    background-color: #212529;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 25px;
+    border-radius: 10px;
+
+}
+
+
+.input-email{
+    color: white;
+    background-color:#212529;
+    margin: 25px;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    float: left;
+     
+}
+
+.input-subject{
+    color: white;
+    background-color:#212529;
+    margin: 25px;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    float: right;
+
+}
+
+.input-msg{
+
+    color: white;
+    background-color:#212529;
+    margin: 25px;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    
+}
+
+.myBtn{
+  padding: 0.6em 2em;
+  font-weight: bold;
+  border: 2px solid black;
+  box-shadow: 5px 5px 5px 1px rgba(0,0,0,.8);
+  color: rgb(255, 255, 255);
+  background: #BB86FC;
+  cursor: pointer;
+  position: relative;
+ 
+  border-radius: 10px;
+ 
+}
+
